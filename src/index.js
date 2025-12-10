@@ -1,3 +1,8 @@
+//calculadoraparte2
+import { multiplicar, dividir } from './3-calculadoraParte2.js';
+console.log('Multiplicamos dos numeros: ', multiplicar(5,35))
+console.log('Dividimos dos numeros: ', dividir(250,20))
+
 /*calculadoraparte1
 const calculadora = require('./2-calculadoraParte1')
 console.log('Sumamos dos numeros: ', calculadora.sumar(20,35))
