@@ -1,3 +1,8 @@
+/*calculadoraparte1
+const calculadora = require('./2-calculadoraParte1')
+console.log('Sumamos dos numeros: ', calculadora.sumar(20,35))
+console.log('Restamos dos numeros: ', calculadora.restar(20,234))*/
+
 console.log("Hola Mundo desde Node.js");
 /*
 nombre de ramas
