@@ -1,5 +1,6 @@
 //calculadoraparte2
-import { multiplicar, dividir } from './3-calculadoraParte2.js';
+import { multiplicar, dividir } from './3-calculadoraParte2.mjs';
+
 console.log('Multiplicamos dos numeros: ', multiplicar(5,35))
 console.log('Dividimos dos numeros: ', dividir(250,20))
 
