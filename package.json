@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["commonjs" ,
-  "Es", 
-  "module"],
+  "keywords": [
+    "commonjs",
+    "Es",
+    "module"
+  ],
   "author": "jonathan",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
